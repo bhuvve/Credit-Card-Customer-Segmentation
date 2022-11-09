@@ -36,5 +36,3 @@ RBL’s marketing department collects various customer specific data of the cred
 * Group 3
    - These customers are taking maximum cash advance, these customers should be given remainders for payments. Offers can be provided on early payments to improve their payment rate.
 
-
-## Installation
